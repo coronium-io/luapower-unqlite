@@ -1,0 +1,5 @@
+unqlite 1.1.6 from http://unqlite.org/downloads.html/ (BSD2 License)
+requires: unqlite
+
+Notes:
+ - An Embeddable NoSQL Database Engine
