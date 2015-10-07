@@ -6,4 +6,4 @@
 
 * Linux 64
 
-**More soon**
+***More platforms soon***
