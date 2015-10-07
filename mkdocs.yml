@@ -1,1 +1,7 @@
 site_name: Luapower UnQLite
+site_url: http://luapower-unqlite.readthedocs.org/
+repo_url: https://github.com/coronium-io/luapower-unqlite/
+pages:
+  - UnQLite Docs: index.md
+  - Lua API: api.md
+  - About: about.md
