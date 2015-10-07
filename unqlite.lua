@@ -324,6 +324,12 @@ function unqlitecursor:next_entry()
 	return handleError(rc)
 end
 
+function unqlitecursor:delete_entry()
+	local rc = Lib.unqlite_kv_cursor_delete_entry(self.cur)
+	return handleError(rc)
+end
+
+
 function unqlitecursor:key()
 	local val
 	local cb = ffi.cast("xConsumer", function(c, i, d)
