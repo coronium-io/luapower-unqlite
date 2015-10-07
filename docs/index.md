@@ -1,4 +1,4 @@
-# Welcome to the docs!
+# Welcome to the Luapower UnQLite Docs!
 
 This documentation will cover the FFI implementation of UnQLite for Luapower.
 
@@ -7,7 +7,7 @@ This documentation will cover the FFI implementation of UnQLite for Luapower.
 
 ---
 
-## Luapower installation
+## Luapower UnQLite Install
 
 [![Build Status](https://drone.io/github.com/coronium-io/luapower-unqlite/status.png)](https://drone.io/github.com/coronium-io/luapower-unqlite/latest)
 
