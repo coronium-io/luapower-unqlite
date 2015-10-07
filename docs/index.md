@@ -1,6 +1,6 @@
-# Welcome to the Luapower UnQLite Docs!
+# The Luapower UnQLite Docs!
 
-This documentation will cover the FFI implementation of UnQLite for Luapower.
+This documentation will cover the LuaJIT FFI implementation of UnQLite for use with Luapower.
 
 * Learn more about [UnQLite](http://unqlite.org)
 * Learn more about [Luapower](http://luapower.com)
